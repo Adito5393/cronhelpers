@@ -18,7 +18,7 @@ setup(
     url="",
     packages=['cronhelpers'],
     install_requires=[
-        "python-telegram-bot"
+        "python-telegram-bot==12.7"
     ],
     classifiers=[
         "Development Status :: 4 - Beta",
